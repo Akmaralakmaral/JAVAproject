@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com",
+    "\\src\\main\\java\\com\\boots",
+    "\\src\\main\\java\\com\\boots\\config",
+    "\\src\\main\\java\\com\\boots\\controller",
+    "\\src\\main\\java\\com\\boots\\entity",
+    "\\src\\main\\webapp"
+  ],
+  "SelectedNode": "\\src\\main\\java\\com\\boots\\Application.java",
+  "PreviewInSolutionExplorer": false
+}
